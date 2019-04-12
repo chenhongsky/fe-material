@@ -27,14 +27,23 @@
   - Lerna
     1. [官方文档](https://github.com/lerna/lerna)
     2. [入门介绍](https://www.jianshu.com/p/63ec67445b0f)
-  - Eslint
+  - 代码质量
     1. [vue eslint](https://mysticatea.github.io/vue-eslint-demo/)
+    2. [htmlhint](https://htmlhint.io/)
+    3. [stylelint](https://stylelint.io/)
   - http-server
     1. [静态服务器](https://www.npmjs.com/package/http-server)
   - ast
     1. [业界AST库](https://github.com/cucygh/AST-)
   - 自动化测试
     1. [jest](https://jestjs.io/zh-Hans/)
+  - Docker
+    1. [发布Node程序](https://nodejs.org/zh-cn/docs/guides/nodejs-docker-webapp/)
+    2. [Docker从入门到实践](https://yeasy.gitbooks.io/docker_practice/introduction/why.html)
+  - 逆向工程
+    1. [压缩逆向恢复](http://www.jsnice.org/)
+
+
 ### 前端框架
   - Vue
     1. [基本教程](https://cn.vuejs.org/)
@@ -73,10 +82,12 @@
     1. [官方网站](https://threejs.org/)
     2. [基础入门-中文网](http://www.hewebgl.com/article/articledir/1)
     3. [中文文档+示例](https://teakki.com/p/58a3ef1bf0d40775548c908f)
-  - d3.js
+  - 数据图表
     > 数据图表中最强的类库
-    1. [官方网站](https://d3js.org/)
+    1. [D3官方网站](https://d3js.org/)
     2. [中文文档](https://github.com/xswei/d3js_doc)
+    3. [network图表](http://visjs.org/)
+    4. [MapBox](https://www.mapbox.com/)
   - HTML5 动画库
     > 标准动画库和SVG动画库
     1. [Raphael](http://dmitrybaranovskiy.github.io/raphael/)
@@ -89,7 +100,10 @@
     1. [xgplayer](https://github.com/bytedance/xgplayer)
     2. [video.js](https://github.com/videojs/video.js)
     3. [mediaelement](https://github.com/mediaelement/mediaelement)
-    
+### 前端技术
+  - 内存泄漏
+    1. [JavaScript内存泄露和CSS优化](https://github.com/cucygh/js-leakage-patterns?organization=cucygh&organization=cucygh)
+    2. [内存泄漏](https://developers.google.com/web/tools/chrome-devtools/memory-problems/?hl=zh-cn)
 ### CSS教程
   - Less
     1. [文档](http://less.bootcss.com/)
@@ -114,6 +128,9 @@
 ### 服务端教程
   - [Nginx入门](http://cnt1992.xyz/2016/03/18/simple-intro-to-nginx/)
   - [Nginx入门与精通（高级）](http://tengine.taobao.org/book/#)
+  - [Nginx配置大全](https://nginxconfig.io/)
+  - [Dgraph](https://dgraph.io/)
+  - [GraphQL](https://graphql.cn/)
 
 ### 好玩的网站
   - [刷题的酷站：leetcode](https://leetcode.com/)
@@ -155,5 +172,9 @@
   - [shelljs](https://github.com/shelljs/shelljs)
   - [ip离线库](https://www.ipip.net/)
   - [录屏转gif工具](https://getkap.co/)
+  - [图片服务](https://picsum.photos/)
+  - [免费图标](https://www.easyicon.net/)
 ### 文档&文章
   - [会议PPT](https://myslide.cn/)
+### 数据
+  - [全国POI信息数据库](http://www.poilist.cn/)
